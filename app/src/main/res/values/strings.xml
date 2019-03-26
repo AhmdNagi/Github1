@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">TryGitHub</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Beats!</string>
+    <string name="slide_1_desc">The easiest way to listen to your songs without any noise !</string>
+
+    <string name="slide_2_title">Movie Pepsi</string>
+    <string name="slide_2_desc">The best Drink After every meal !</string>
+
+    <string name="slide_3_title">Great Sound Track</string>
+    <string name="slide_3_desc"> The Relation Between Tamer Ashour and Belal Elzabalawy!</string>
+
+
 </resources>
